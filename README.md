@@ -1,2 +1,5 @@
 # pena-mas
-pena-mas. pelaporan bencana masyarakat
+
+Aplikasi : pena-mas. pelaporan bencana masyarakat
+
+Alamat Website : [pena-mas.klaten.go.id](https://pena-mas.klaten.go.id)
